@@ -1,0 +1,248 @@
+{
+  "folder": null,
+  "name": "Fiches et stats",
+  "_id": "SyD0V4ejAg9CSOjK",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Omen 12",
+      "type": "pdf",
+      "_id": "iA5mqOYH0Lk5O8AG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/csb-omen-xx/assets/fiches/Omen%2012%20-%20Fiche%20de%20personnage.pdf",
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "custom-system-builder",
+        "systemVersion": "6.1.2",
+        "createdTime": 1794172274454,
+        "modifiedTime": 1794172274454,
+        "lastModifiedBy": "b0UvjoPKzbDB3HuU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!SyD0V4ejAg9CSOjK.iA5mqOYH0Lk5O8AG"
+    },
+    {
+      "sort": 0,
+      "name": "Réflexion et règles sur l'exemple d'Omen 12",
+      "type": "pdf",
+      "_id": "o63nXsxEKCiwohG2",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/csb-omen-xx/assets/fiches/Omen%2012%20-%20R%C3%A8gles.pdf",
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "custom-system-builder",
+        "systemVersion": "6.1.2",
+        "createdTime": 1794172274454,
+        "modifiedTime": 1794172274454,
+        "lastModifiedBy": "b0UvjoPKzbDB3HuU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!SyD0V4ejAg9CSOjK.o63nXsxEKCiwohG2"
+    },
+    {
+      "sort": 200000,
+      "name": "Omen 10",
+      "type": "pdf",
+      "_id": "Th8NetzZq29mrmFV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/csb-omen-xx/assets/fiches/Omen%2010%20-%20Fiche%20de%20personnage.pdf",
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "custom-system-builder",
+        "systemVersion": "6.1.2",
+        "createdTime": 1794172274454,
+        "modifiedTime": 1794172274454,
+        "lastModifiedBy": "b0UvjoPKzbDB3HuU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!SyD0V4ejAg9CSOjK.Th8NetzZq29mrmFV"
+    },
+    {
+      "sort": 300000,
+      "name": "Omen 8",
+      "type": "pdf",
+      "_id": "2ifWgOZG1Dj7dHdw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/csb-omen-xx/assets/fiches/Omen%208%20-%20Fiche%20de%20personnage.pdf",
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "custom-system-builder",
+        "systemVersion": "6.1.2",
+        "createdTime": 1794172274454,
+        "modifiedTime": 1794172274454,
+        "lastModifiedBy": "b0UvjoPKzbDB3HuU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!SyD0V4ejAg9CSOjK.2ifWgOZG1Dj7dHdw"
+    },
+    {
+      "sort": 400000,
+      "name": "Omen FU SUV",
+      "type": "pdf",
+      "_id": "0YaUyMQF6eSwX7lp",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/csb-omen-xx/assets/fiches/Omen%206%20FU%20SUV%20-%20Fiche%20de%20personnage.pdf",
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "custom-system-builder",
+        "systemVersion": "6.1.2",
+        "createdTime": 1794172274454,
+        "modifiedTime": 1794172274454,
+        "lastModifiedBy": "b0UvjoPKzbDB3HuU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!SyD0V4ejAg9CSOjK.0YaUyMQF6eSwX7lp"
+    },
+    {
+      "sort": 500000,
+      "name": "Télécharger les Fiches",
+      "type": "text",
+      "_id": "2VYIgpAoU9LcTxJf",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Les fiches sont accessibles dans le répertoire du module : assets/fiches</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "custom-system-builder",
+        "systemVersion": "6.1.2",
+        "createdTime": 1794172274454,
+        "modifiedTime": 1794172274454,
+        "lastModifiedBy": "b0UvjoPKzbDB3HuU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!SyD0V4ejAg9CSOjK.2VYIgpAoU9LcTxJf"
+    }
+  ],
+  "categories": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "custom-system-builder",
+    "systemVersion": "6.1.2",
+    "createdTime": 1794172274454,
+    "modifiedTime": 1794172274454,
+    "lastModifiedBy": "b0UvjoPKzbDB3HuU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "_key": "!journal!SyD0V4ejAg9CSOjK"
+}

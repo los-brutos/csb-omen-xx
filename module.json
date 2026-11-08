@@ -2,6 +2,11 @@
   "id": "csb-omen-xx",
   "title": "CSB - Omen XX",
   "description": "Un petit système qui automatise les systèmes Omen 12, Omen 10 et Omen 8 des Imagitateurs du Jdr, motorisé avec Custom System Builder",
+  "media": [{
+    "type": "setup", 
+    "url": "modules/csb-omen-xx/assets/imagitateurs-du-jdr.webp", 
+    "thumbnail": "modules/csb-omen-xx/assets/imagitateurs-du-jdr.webp"
+  }],
   "version": "14.0.0",
   "compatibility": {
     "minimum": "14",
