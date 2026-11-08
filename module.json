@@ -1,18 +1,18 @@
 {
-  "id": "csb-omen-12",
-  "title": "CSB - Omen 12",
-  "description": "Un petit système qui automatise le système Omen 12 motorisé avec Custom System Builder",
+  "id": "csb-omen-xx",
+  "title": "CSB - Omen XX",
+  "description": "Un petit système qui automatise les systèmes Omen 12, Omen 10 et Omen 8 des Imagitateurs du Jdr, motorisé avec Custom System Builder",
   "version": "14.0.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
   },
-  "url": "https://github.com/los-brutos/csb-omen-12/",
-  "manifest": "https://raw.githubusercontent.com/los-brutos/csb-omen-12/refs/tags/14.0.0/module.json",
-  "download": "https://github.com/los-brutos/csb-omen-12/releases/download/14.0.0/csb-omen-12.zip",
-  "readme": "https://github.com/los-brutos/csb-omen-12/blob/main/README.md",
-  "bugs": "https://github.com/los-brutos/csb-omen-12/issues",
-"authors": [
+  "url": "https://github.com/los-brutos/csb-omen-xx/",
+  "manifest": "https://raw.githubusercontent.com/los-brutos/csb-omen-xx/refs/tags/14.0.0/module.json",
+  "download": "https://github.com/los-brutos/csb-omen-xx/releases/download/14.0.0/csb-omen-xx.zip",
+  "readme": "https://github.com/los-brutos/csb-omen-xx/blob/main/README.md",
+  "bugs": "https://github.com/los-brutos/csb-omen-xx/issues",
+  "authors": [
     {
       "name": "Los Brutos",
       "discord": "losbrutos",
@@ -23,12 +23,12 @@
     "canUpload": true
   },
   "styles": [
-    "styles/csb-omen-12.css"
+    "styles/csb-omen-xx.css"
   ],
   "packs": [
     {
       "name": "templates-acteurs",
-      "label": "_Omen 12 - Templates Acteurs",
+      "label": "_Omen XX - Templates Acteurs",
       "path": "packs/templates-acteurs",
       "type": "Actor",
       "ownership": {
@@ -40,11 +40,23 @@
     },
     {
       "name": "templates-objets",
-      "label": "_Omen 12 - Templates Objets",
+      "label": "_Omen XX - Templates Objets",
       "path": "packs/templates-objets",
       "type": "Item",
       "ownership": {
         "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "omen-systems",
+      "label": "_Omen XX - Les systèmes Omen 12, 10 et 8",
+      "path": "packs/omen-systems",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
       "system": "custom-system-builder",

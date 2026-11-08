@@ -1,0 +1,90 @@
+/**
+ * Feuille de style du module
+ * Les classes préfixées par 'omenxx-'
+ */
+
+
+/* FICHE */
+.omenxx-cadre {
+  border: 1px solid var(--color-border);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  /*background-color: #222222;*/
+}
+
+td:has(> .omenxx-trait-type) {
+ width: 10%;
+}
+
+.omenxx-positif {
+  border: 1px solid var(--color-level-success-border);
+/*
+  padding-top: 5px;
+  padding-bottom: 5px;
+*/
+  border-radius: 5px;
+  box-shadow: 0 0 5px var(--color-level-success);
+  /*
+  background-color: var(--color-level-success-bg);
+  */
+}
+/*
+.omenxx-positif > input, .omenxx-negatif > input{
+  color: white;
+}
+*/
+.omenxx-negatif {
+  border: 1px solid var(--color-level-error-border);
+/*
+  padding-top: 5px;
+  padding-bottom: 5px;
+*/
+  border-radius: 5px;
+  box-shadow: 0 0 5px var(--color-level-error);
+  /*
+  background-color: var(--color-level-error-bg);
+  */
+}
+
+/* CHAT MESSAGE */
+.omenxx-result {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1em;
+  border: 1px solid var(--color-border);
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+.omenxx-result-detail {
+  text-align: center;
+}
+
+.omenxx-result-non-et {
+  background-color: #991B1B;
+  color: #FEE2E2;
+}
+.omenxx-result-non {
+  background-color: #EF4444;
+  color: #FEF2F2;
+}
+.omenxx-result-non-mais {
+  background-color: #F97316;
+  color: #FFF7ED;
+}
+.omenxx-result-oui-mais {
+  background-color: #EAB308;
+  color: #422006;
+}
+.omenxx-result-oui {
+  background-color: #84CC16;
+  color: #14532D;
+}
+.omenxx-result-oui-et {
+  background-color: #22C55E;
+  color: #DCFCE7;
+}

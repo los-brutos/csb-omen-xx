@@ -1,6 +1,6 @@
 @echo off
 REM 
-REM création des compendiums du module CSB Omen 12
+REM création des compendiums du module CSB Omen XX
 REM
 REM le paquet fvtt doit être  installé https://github.com/foundryvtt/foundryvtt-cli
 REM
@@ -13,7 +13,7 @@ echo * start create compendiums          *
 echo * ********************************* *
 echo.
 echo /// configure environment
-call fvtt package workon csb-omen-12 --type=Module
+call fvtt package workon csb-omen-xx --type=Module
 echo.
 echo /// pack compendium "templates-acteurs"
 call fvtt package pack templates-acteurs

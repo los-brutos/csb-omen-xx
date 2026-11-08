@@ -12,13 +12,16 @@ echo * start unpack compendiums           *
 echo * ********************************** *
 echo.
 echo /// configure environment
-call fvtt package workon csb-omen-12 --type=Module
+call fvtt package workon csb-omen-xx --type=Module
 echo.
 echo /// unpack compendium "templates-acteurs"
 call fvtt package unpack -c templates-acteurs
 echo.
 echo /// unpack compendium "templates-objets"
 call fvtt package unpack -c templates-objets
+echo.
+echo /// unpack compendium "omen-systems"
+call fvtt package unpack -c omen-systems
 echo.
 echo * ********************************** *
 echo * all compendiums have been unpacked *

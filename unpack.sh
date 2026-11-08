@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #
-# dépaquetage des compendiums du module CSB Omen 12
+# dépaquetage des compendiums du module CSB Omen XX
 #
 # le paquet fvtt doit être  installé https://github.com/foundryvtt/foundryvtt-cli
 #
@@ -17,7 +17,7 @@ fi
 
 if [[ "${1-}" =~ ^-*h(elp)?$ ]]; then
     echo 'Usage: ./unpack.sh
-unpack les compendiums du module CSB Omen 12'
+unpack les compendiums du module CSB Omen XX'
     exit
 fi
 
@@ -28,7 +28,7 @@ echo "* start unpack compendiums           *"
 echo "* ********************************** *"
 
 echo "  * configure environment"
-fvtt package workon csb-omen-12 --type=Module
+fvtt package workon csb-omen-xx --type=Module
 
 echo "  * unpack compendium templates-acteurs"
 fvtt package unpack -c templates-acteurs
